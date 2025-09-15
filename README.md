@@ -3,8 +3,8 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-# Name   : Monika A
-# Reg no : 212224240094
+# Name   : Jothimani p
+# Reg no : 212224230108
 
 # AIM:
 To practice Linux Commands and Shell Scripting
